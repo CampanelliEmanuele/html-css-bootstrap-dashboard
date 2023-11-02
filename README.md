@@ -58,7 +58,7 @@ Ricordiamo che Bootstrap ha già molti componenti pronti all’uso che potete ut
 
 ### Analisi grafica
 
-<img alt="analisi-grafica" src="./img/">
+<img alt="analisi-grafica" src="./img/screenshot/analysis/desktop-analysis.png" width="900">
 
 ### Risultato
 
