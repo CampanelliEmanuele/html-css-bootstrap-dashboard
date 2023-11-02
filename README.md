@@ -30,7 +30,7 @@ Ricordiamo che Bootstrap ha già molti componenti pronti all’uso che potete ut
 
 #### Desktop view
 
-<img alt="consegna-base-1" src="./img/screenshot/desktop" width="1000">
+<img alt="consegna-base-1" src="./img/screenshot/desktop.png" width="1000">
 
 #### Mobile view
 
