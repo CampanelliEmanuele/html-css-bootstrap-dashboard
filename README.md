@@ -13,6 +13,7 @@
   - [Svolgimento](#svolgimento)
     - [Analisi grafica](#analisi-grafica)
     - [Risultato](#risultato)
+      - [Esercizio-bonus](#esercizio-bonus)
 
 # html-css-bootstrap-dashboard
 
@@ -62,4 +63,6 @@ Ricordiamo che Bootstrap ha già molti componenti pronti all’uso che potete ut
 
 ### Risultato
 
-<img alt="risultato-finale" src="./img/">
+#### Esercizio-bonus
+
+<img alt="risultato-finale-bonus" src="./img/screenshot/solution/bonus-solution.PNG" width="1000">
